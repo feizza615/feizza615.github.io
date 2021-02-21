@@ -1,0 +1,19 @@
+.sections{
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.descriptions{
+    background-color: white; 
+    height:300; 
+    font-family: 'Courier New', Courier, monospace; 
+    text-align: center;
+    width: 90%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
